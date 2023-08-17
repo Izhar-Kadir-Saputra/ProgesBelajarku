@@ -1,14 +1,12 @@
 # ProgesBelajarku
 Repositiry Ini Berisi Tentang Pengalamanku Belajar di Dicoding
 
-**17 Agustus 2023**
-
+**17 Agustus 2023** <br>
 belajar kelas pengenalan Git dan Github. (progres 38%)
  * Belajar tentang dasar-dasar git
  * Belajar membuat repository baru
    
-**15 Juni 2021**
-
+**15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
